@@ -1,0 +1,2 @@
+# okinawaPublicLibraryEbook
+沖縄県内の2021年12月現在の電子書籍導入タイトルをまとめたものです。
